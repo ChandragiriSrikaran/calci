@@ -1,0 +1,93 @@
+#ody{
+    height: 250px;
+    width:220px;
+    background-color: beige;
+    /* margin: 200px; */
+    /* margin-top:150px; */
+    margin-left: 450px;
+    padding-top: 50px;
+    padding-left: 20px;
+    border: solid burlywood 3px;
+    border-radius: 9px;
+
+  
+}
+#clock{
+    background-color: beige;
+    width:170px;
+    height:100px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    padding:10px; 
+    
+    border:solid burlywood 2px;
+    border-radius:7px;
+}
+#ac{
+    font-size:10px;
+    height:25px;
+    text-align: center;
+    border: 2px outset rgb(254, 3, 70);
+}
+#div{
+
+    margin-bottom: 10px;
+    margin-top: 7px;
+    
+}
+#new{
+
+background-color:rgb(200, 133, 174);
+    width:20px;
+    height:120px;
+   
+    padding:10px; 
+    align-content:right-top;
+    margin:auto;   
+}
+#tab{
+    background-color: beige;
+    width: 180px;
+    height: 30px;
+    border: solid burlywood 2px;
+    border-radius: 3px;
+    margin: 4px;
+}
+button{
+    background-color:rgb(110, 158, 237);
+    border:solid aliceblue 1px;
+    border-radius: 2px;
+    width:25px;
+    height:25px;
+    border
+}
+button:hover{
+    background-color:antiquewhite;
+    color:rgb(2, 32, 114);
+    border:solid black 0.5px;
+    font-size:15px;
+    font-family:special elite;
+}
+button:active{
+    color: rgb(237, 237, 237);
+}
+#expo{
+    border: 2px outset rgb(208, 221, 247);
+}
+#InputBt{
+    margin: 5px;
+    height: 14px;;
+   
+    
+}
+h1
+{
+    
+    
+   
+    margin-left: 500px;
+    margin-top: 30px;
+    
+
+}
